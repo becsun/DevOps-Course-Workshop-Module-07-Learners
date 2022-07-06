@@ -14,4 +14,3 @@ jobs:
         who-to-greet: 'Mona the Octocat'
     
     run: dotnet test # Command to run
-    run: npm t
