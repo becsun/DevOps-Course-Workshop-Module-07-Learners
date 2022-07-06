@@ -13,7 +13,5 @@ jobs:
       with:                                            # This section is needed if you need to pass arguments to the action
         who-to-greet: 'Mona the Octocat'
     
-    
-    name: test       # Name of step
     run: dotnet test # Command to run
     run: npm t
